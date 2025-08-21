@@ -7,4 +7,4 @@ To run the python component of this code, install [Anaconda](https://www.anacond
 
 `conda create --name <env> --file requirements.txt`
 
-To run the R final estimation code, install RStudio and run the 
+To run the R final estimation code, install [RStudio](https://posit.co/download/rstudio-desktop/) and the necessary libraries from within it. 
